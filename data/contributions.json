@@ -1,22 +1,22 @@
 {
   "username": "wynhnzz",
-  "generated_at": "2026-08-05T17:31:38Z",
+  "generated_at": "2026-08-07T17:17:14Z",
   "range": {
     "start": "2025-08-03",
-    "end": "2026-08-05"
+    "end": "2026-08-07"
   },
-  "total_contributions": 423,
-  "active_days": 108,
+  "total_contributions": 422,
+  "active_days": 109,
   "avg_per_active_day": 3.9,
   "current_streak": {
-    "length": 22,
-    "start": "2026-07-14",
-    "end": "2026-08-04"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
-    "length": 22,
+    "length": 23,
     "start": "2026-07-14",
-    "end": "2026-08-04"
+    "end": "2026-08-05"
   },
   "best_day": {
     "date": "2025-09-20",
@@ -61,7 +61,7 @@
     },
     {
       "month": "2026-05",
-      "total": 38
+      "total": 36
     },
     {
       "month": "2026-06",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 4
+      "total": 5
     }
   ],
   "days": [
@@ -1191,7 +1191,7 @@
     },
     {
       "date": "2026-05-08",
-      "count": 4
+      "count": 2
     },
     {
       "date": "2026-05-09",
@@ -1547,6 +1547,14 @@
     },
     {
       "date": "2026-08-05",
+      "count": 1
+    },
+    {
+      "date": "2026-08-06",
+      "count": 0
+    },
+    {
+      "date": "2026-08-07",
       "count": 0
     }
   ]
